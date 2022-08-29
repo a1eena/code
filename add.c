@@ -8,5 +8,6 @@
        sum = num1+num2;
 
        printf("\n%d + %d = %d\n" , num1, num2 ,sum);
+printf("itsme alina");
        return 0;
     }
